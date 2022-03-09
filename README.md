@@ -2,8 +2,8 @@
 - Too lazy to spend an hour doing shit 
 - Spends 4 hours making a program to do it for me
 - Finds out it doesn't work correctly and now I have to undo everything
-- 
-- Took 6 hours to finish the task that should've been done in 1
+- <strikethrough>Give Up</strikethrough>Postpone making it and actually do the task as intended
+- Finish after 6 hours the task that should've been done in 1
 - break;
 
 // Oh right, forgot the name
