@@ -2,7 +2,7 @@
 - Too lazy to spend an hour doing shit 
 - Spends 4 hours making a program to do it for me
 - Finds out it doesn't work correctly and now I have to undo everything
-- <p style="text-decoration: line-through;">Give Up</p> Postpone making it and actually do the task as intended
+- Postpone making it and actually do the task as intended
 - Finish after 6 hours the task that should've been done in 1
 - break;
 
